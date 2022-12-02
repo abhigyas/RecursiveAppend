@@ -18,6 +18,6 @@ public class RecursiveAppend {
     }
 
     public static void main(String[] args) {
-        System.out.println(appendNTimes("Siddharth", 1));
+        System.out.println(appendNTimes("cat", 3));
     }
 }
